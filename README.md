@@ -8,11 +8,11 @@ The original version only displays bins for which there were fragment length cou
 Modified version is run as the same way as the original.
 <br><br>
 
-Plot generated using the original Mplot.R script:
-<img align="left" width="100" height="300" src=megasat_old.png>
+Plot generated using the original Mplot.R scriptThe increased number of bins reflect every fragment length detected for this marker.
+<img align="left" width="100" height="300" src=megasat_old.png><img align="left" width="100" height="300" src=megasat_new.png>
 
 <br><br>
 
-Plot generated using the modified Mplot.R script.
-The increased number of bins reflect every fragment length detected for this marker.
-<img align="left" width="100" height="300" src=megasat_new.png>
+
+
+
