@@ -9,10 +9,10 @@ Modified version is run as the same way as the original.
 <br><br>
 
 Plot generated using the original Mplot.R script:
-![original Beiko lab version](megasat_old.png)
+<img align="left" width="100" height="100" src=megasat_old.png>
 
 <br><br>
 
 Plot generated using the modified Mplot.R script.
 The increased number of bins reflect every fragment length detected for this marker.
-![New version](megasat_new.png)
+<img align="left" width="100" height="100" src=megasat_new.png">
