@@ -7,6 +7,7 @@ The original version only displays bins for which there were fragment length cou
 <br><br>
 Modified version is run as the same way as the original.
 <br><br>
-<img align="left" width="586" height="412" src=megasat_old.png><img align="left" width="586" height="412" src=megasat_new.png>
+<img align="left" src=megasat_old.png>
+<img align="left" src=megasat_new.png>
 
 
